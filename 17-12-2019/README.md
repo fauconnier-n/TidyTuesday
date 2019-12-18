@@ -6,5 +6,5 @@ Data source: https://github.com/rfordatascience/tidytuesday/tree/master/data/201
 
 My original tweet: https://twitter.com/nfauco/status/1207046364057735171
 
-![](dog_pyramid_state.png)
 ![](dog_pyramid.png)
+![](dog_pyramid_state.png)
