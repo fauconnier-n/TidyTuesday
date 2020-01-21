@@ -3,7 +3,7 @@ library(tidyverse)
 #Load the data
 spotify_songs <- readr::read_csv('https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2020/2020-01-21/spotify_songs.csv')
 
-#A rapid look at the data and the variables used here
+#rapid look at the data and the variables used here
 summary(spotify_songs)
 table(spotify_songs$playlist_genre)
 table(spotify_songs$playlist_subgenre)
