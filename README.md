@@ -5,5 +5,6 @@ TidyTuesday is a weekly event from the R4DS Online Learning Community where a da
 To see other participants submissions you can browse the #TidyTuesday hashtag on Twitter, or use this link to look at the latest submissions:  
 https://twitter.com/search?q=%23TidyTuesday&src=unkn&f=live&vertical=default
 
-TidyTuesday's GitHub (weekly datasets and more info about the project) : https://github.com/rfordatascience/tidytuesday
+TidyTuesday's GitHub (weekly datasets and more info about the project) : https://github.com/rfordatascience/tidytuesday 
 R4DS: https://www.rfordatasci.com/
+
